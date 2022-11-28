@@ -1,0 +1,1 @@
+Sim, a variável "quantReservas" não tem nenhum valor em sua inicializaçao e por conseguinte não poderá ser incrementada. 
